@@ -1,6 +1,12 @@
+# Installation
+
+Download and unzip zip file. The game should be playable.
+
 # Goal
 
 This is generally an awesome game. Well balanced out of the box and quite replayable. However, there are still OP strategies and elements in the game those allow to finish it very quickly disregarding gradual growth. I like to reduce their effect to emphacise gradual hero evolution.
+
+I just modified what I think is OP and what makes game playable for me. Played and won with Sourceress on impossilbe and had pretty good time balancing army and money. I am not saying these are ultimate perfect changes. Please try it out and let me know (file an issue) if they need to be tweaked or something else need to be changed.
 
 # Analysis
 
@@ -22,6 +28,10 @@ Of course, lower tier units have their drawback. The most notable is that with l
 ## Combat related spells
 
 Fireball and Lightning are well balanced. Fireball is more devastating but slightly more expensive. Resurrection and Clone are also balanced. Resurrection generates twice as more units but slightly more expensive and is limited with initial units count. Balance between these two groups (damaging enemy units and restoring own units) seems to be fine too. It is about four times more expensive to restore own units, which makes sense as they usually dying much slower.
+
+# Mechanics.
+
+I modified the mechanics years ago and do not remember all the bugs and things I fixed. The only one I recall is that enemy troops are moving toward the player, NOT toward where the player was. That disables the ability to dance around them. You either fight or go back. In some circumstances, like when you enter the town fleeing from wandering army, you cannot exit the town without a fight.
 
 # Spoil of war
 
